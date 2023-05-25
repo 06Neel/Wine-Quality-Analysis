@@ -16,7 +16,7 @@ Wine Quality Analysis is a data analysis project that aims to explore and analyz
 
 To run the Wine Quality Analysis project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/wine-quality-analysis.git`
+1. Clone the repository: `git clone `
 2. Install any required dependencies or libraries specified in the project documentation.
 3. Open the main script or notebook file in your preferred development environment.
 4. Run the script or notebook to perform the data analysis and explore the wine dataset.
